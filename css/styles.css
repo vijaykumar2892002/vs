@@ -21,16 +21,18 @@ h3{
 }
 
 .op{
-  font-size:20px;
+  font-size:15px;
 }
+li{
+font-size:10px;
 
-.vs{
+/*.vs{
   font-size: 20px;
 }
 
 tr{
   font-size: 20px;
-}
+}*/
 .h{
   font-size: 10px;
 }
