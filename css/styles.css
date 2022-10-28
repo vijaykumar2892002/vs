@@ -1,0 +1,55 @@
+body{
+  background-color:	#EAF6F6;
+  font-size: 15px;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 20px;
+}
+h1{
+  color: #66BFBF;
+
+}
+h2{
+  color:  #66BFBF;
+}
+h3{
+  color:  #66BFBF;
+}
+
+/*.op{
+  font-size:10px;
+}
+
+.vs{
+  font-size: 10px;
+}
+
+.tr{
+  font-size: 10px;
+}
+.h{
+  font-size: 10px;
+}
+
+.p{
+  font-size: 10px;
+}
+
+.k{
+  font-size: 10px;
+}
+
+
+.c{
+  font-size: 10px;
+}
+
+.y{
+  font-size: 10px;
+}
+*/
