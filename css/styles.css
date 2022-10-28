@@ -1,6 +1,6 @@
 body{
   background-color:	#EAF6F6;
- font-size:20;
+ font-size:20px;
 
 }
 hr{
@@ -24,7 +24,7 @@ p{
   font-size:20px;
 }
 
-/*.op{
+.op{
   font-size:15px;
 }
 
@@ -54,5 +54,5 @@ p{
 
 .y{
   font-size: 15px;
-}*/
+}
 
