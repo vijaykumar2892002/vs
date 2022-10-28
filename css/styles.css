@@ -20,36 +20,39 @@ h2{
 h3{
   color:  #66BFBF;
 }
+p{
+  font-size:20px;
+}
 
 .op{
-  font-size:10px;
+  font-size:15px;
 }
 
 .vs{
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .tr{
-  font-size: 10px;
+  font-size: 15px;
 }
 .h{
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .p{
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .k{
-  font-size: 10px;
+  font-size: 15px;
 }
 
 
 .c{
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .y{
-  font-size: 10px;
+  font-size: 15px;
 }
 
