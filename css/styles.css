@@ -23,8 +23,14 @@ h3{
 img:hover{
   background-color: blue;
 }
-td{
+.a{
   font-size:15px;
+}
+.b{
+   font-size:15px;
+}
+.c{
+   font-size:15px;
 }
 /*
 .op{
