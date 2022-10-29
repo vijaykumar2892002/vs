@@ -1,6 +1,6 @@
 body{
   background-color:	#EAF6F6;
-  font-size: 15px;
+  font-size: 20px;
 
 }
 hr{
@@ -23,7 +23,7 @@ h3{
 img:hover{
   background-color: blue;
 }
-
+/*
 .op{
   font-size:20px;
 }
@@ -54,4 +54,4 @@ img:hover{
 
 .y{
   font-size: 10px;
-}
+}*/
